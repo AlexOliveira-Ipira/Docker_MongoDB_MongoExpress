@@ -37,7 +37,7 @@ Rodando MongoDB com Mongo Express no Docker
 
     docker network connect NetMongo "ID da imagem"
 
-<img src=./img/DockerContainerMongo.png>
+<img src=>
 
 <h2> - Criando a Imagem Mongo-Express </h2>
 
