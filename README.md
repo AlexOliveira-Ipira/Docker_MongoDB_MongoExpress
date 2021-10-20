@@ -6,9 +6,13 @@ Rodando MongoDB com Mongo Express no Docker
 
     - Imagem MongoDB utilizada.
         https://hub.docker.com/_/mongo
+
+<img src=./img/PaginaDockerMongo.png>
     
     - Imagem Mongo Express Utilizada.
         https://hub.docker.com/_/mongo-express
+
+<img src=./img/PaginaDockerMongoExpress.png>
 
 <h2> 2 - Criar o volume </h2>
 
