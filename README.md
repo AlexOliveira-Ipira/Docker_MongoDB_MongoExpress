@@ -31,6 +31,8 @@ Rodando MongoDB com Mongo Express no Docker
     docker container run --name mongoDB 
     -v "base_mongo:/dados" -d mongo:latest
 
+<img src=./img/DockeContainerMongoDB.png>
+
 <h2> - Colocando a base na rede </h2>
 
     docker network connect NetMongo "ID da imagem"
