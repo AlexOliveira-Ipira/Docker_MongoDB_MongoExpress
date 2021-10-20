@@ -49,6 +49,6 @@ Rodando MongoDB com Mongo Express no Docker
 
 <h2> Mongo Express rodando no container </h2>
 
-<img src=./img/>
+<img src=./img/Dashborad.png>
 
     
